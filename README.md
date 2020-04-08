@@ -3,15 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features
-- TypeScript
 - react-app-rewired / customize-cra
-- Styled-components
-- Styled-system
-- Material UI
-- fontawesome
-- Jest
-- Enzyme
 - commitzen
+- styled-system
+- Theme UI
+- Jest
+- react-testing-library
+- Wallaby.js
 
 ## Available Scripts
 
